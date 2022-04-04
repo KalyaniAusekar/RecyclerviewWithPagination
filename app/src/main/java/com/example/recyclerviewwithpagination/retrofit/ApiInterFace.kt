@@ -23,7 +23,6 @@ interface ApiInterFace {
                 .build()
 
             return retrofit.create(ApiInterFace::class.java)
-
         }
     }
 }
