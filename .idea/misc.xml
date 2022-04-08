@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Studio Projects/RecyclerviewWithPagination/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android Studio Projects/RecyclerviewWithPagination/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/RecyclerviewWithPagination/app/src/main/res/layout/fragment_movies.xml" value="0.21875" />
         <entry key="..\:/Android Studio Projects/RecyclerviewWithPagination/app/src/main/res/layout/row_movies.xml" value="0.23645833333333333" />
       </map>
     </option>

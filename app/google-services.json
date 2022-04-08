@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703533918860",
+    "project_id": "recyclerviewwithpaging",
+    "storage_bucket": "recyclerviewwithpaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703533918860:android:726a8a3a5ba292ffb7a9a9",
+        "android_client_info": {
+          "package_name": "com.kalyani.recyclerviewpaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703533918860-vlqq1acno8c8q4it57ofhu26jt8bfv1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalyani.recyclerviewpaging",
+            "certificate_hash": "9a78aaae5c89f3ac9e44fa849c9133e9cf04fdb4"
+          }
+        },
+        {
+          "client_id": "703533918860-kpghr43lcid3fbg9b6a23gisltbi2ob7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSf5P9GaEDjwjB66_7ps5H67y0eXrt2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703533918860-kpghr43lcid3fbg9b6a23gisltbi2ob7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
